@@ -3,12 +3,12 @@ An Excel-based interactive dashboard that visualizes regional sales performance,
 
 **Key Features:**
 
-* Regional sales analysis with summary tables.
+🌍 Regional Sales Analysis: Summary tables showing performance by region.
 
-* Visualizations: bar charts, pie charts, and line charts.
+📊 Visualizations: Bar charts, pie charts, and line charts for clear insights.
 
-* Interactive filtering by region.
+⚡ Interactive Filtering: Filter sales data dynamically by region.
 
-* Metrics included: Unit Price, Units Sold, Discount %, Total Sales.
+💵 Sales Metrics: Includes Unit Price, Units Sold, Discount %, and Total Sales.
 
-* Quick identification of top-performing and underperforming regions.
+🏆 Performance Insights: Quickly identify top-performing and underperforming regions.
